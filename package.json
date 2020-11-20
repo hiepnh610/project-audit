@@ -1,0 +1,11 @@
+{
+  "name": "project-audit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hiepnh610/project-audit.git",
+  "author": "Hiep Nguyen <hiepnh610@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
